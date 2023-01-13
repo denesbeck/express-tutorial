@@ -1,1 +1,1 @@
-console.log('Express Tutorial');
+require('./6-http-methods');
